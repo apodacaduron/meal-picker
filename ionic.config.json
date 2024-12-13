@@ -1,0 +1,7 @@
+{
+  "name": "meal-picker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
