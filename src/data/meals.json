@@ -1,0 +1,482 @@
+[
+  {
+    "title": "Pan frances",
+    "tags": ["desayuno"],
+    "recipe": "Batir huevos, agregar leche y canela. Remojar el pan en la mezcla y freír hasta dorarse.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🍞"
+  },
+  {
+    "title": "Chilaquiles verdes",
+    "tags": ["desayuno"],
+    "recipe": "Freír totopos, agregar salsa verde y mezclarlos bien, añadir pollo y acompañar con crema, queso y cebolla.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🌶️"
+  },
+  {
+    "title": "Chilaquiles rojos",
+    "tags": ["desayuno"],
+    "recipe": "Freír totopos y mezclarlos con salsa roja, añadir pollo y decorar con crema, queso y cebolla.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🌶️"
+  },
+  {
+    "title": "Papas con chorizo",
+    "tags": ["desayuno"],
+    "recipe": "Freír papas y chorizo hasta dorarse y servirse acompañados de tortillas.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🥔"
+  },
+  {
+    "title": "Cereal",
+    "tags": ["desayuno"],
+    "recipe": "Verter cereal en un tazón y agregar leche al gusto.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🥣"
+  },
+  {
+    "title": "Papas a la mexicana",
+    "tags": ["desayuno"],
+    "recipe": "Cocinar papas con jitomate, cebolla, chile y cilantro.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🌶️"
+  },
+  {
+    "title": "Hotcakes",
+    "tags": ["desayuno"],
+    "recipe": "Mezclar harina, huevo, leche y polvo para hornear, cocinar en un sartén.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🥞"
+  },
+  {
+    "title": "Waffles",
+    "tags": ["desayuno"],
+    "recipe": "Mezclar harina, huevo, leche y polvo para hornear, cocinar en una wafflera.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🧇"
+  },
+  {
+    "title": "Pan con crema de cacahuate y plátano",
+    "tags": ["desayuno"],
+    "recipe": "Untar crema de cacahuate en pan y colocar rodajas de plátano encima.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🍌"
+  },
+  {
+    "title": "Pan con crema de cacahuate",
+    "tags": ["desayuno"],
+    "recipe": "Untar crema de cacahuate en pan.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🥜"
+  },
+  {
+    "title": "Sandwich",
+    "tags": ["desayuno"],
+    "recipe": "Armar un sandwich con pan, jamón, queso y otros ingredientes al gusto.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🥪"
+  },
+  {
+    "title": "Sandwich de ensalada de pollo",
+    "tags": ["comida"],
+    "recipe": "Preparar ensalada de pollo con mayonesa, jitomate, lechuga y colocar en pan.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🍗"
+  },
+  {
+    "title": "Tortas de tinga",
+    "tags": ["comida"],
+    "recipe": "Cocinar carne con cebolla, chipotle, tomate y preparar el relleno de la torta.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🌮"
+  },
+  {
+    "title": "Chile con asadero y frijolitos",
+    "tags": ["comida"],
+    "recipe": "Cocinar chile poblano con frijoles y añadir queso asadero.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🌶️"
+  },
+  {
+    "title": "Discada",
+    "tags": ["comida"],
+    "recipe": "Preparar carne de res y cerdo en un sartén con cebolla, jitomate, y pimientos.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🥩"
+  },
+  {
+    "title": "Picadillo",
+    "tags": ["comida"],
+    "recipe": "Cocinar carne molida con papas, zanahorias, y tomates.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🍖"
+  },
+  {
+    "title": "Taquitos dorados con sopita",
+    "tags": ["comida"],
+    "recipe": "Freír taquitos y servir con sopa de fideo.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🌮"
+  },
+  {
+    "title": "Mole con arroz",
+    "tags": ["comida"],
+    "recipe": "Preparar mole rojo y servir con arroz.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🍛"
+  },
+  {
+    "title": "Spaguetti alfredo con camarón",
+    "tags": ["comida"],
+    "recipe": "Preparar spaguetti alfredo y añadir camarones cocidos.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🍝"
+  },
+  {
+    "title": "Spaguetti alfredo con pollo",
+    "tags": ["comida"],
+    "recipe": "Preparar spaguetti alfredo y añadir pollo desmenuzado.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🍝"
+  },
+  {
+    "title": "Spaguetti chino",
+    "tags": ["comida"],
+    "recipe": "Preparar spaguetti con salsa de soya, zanahorias, y cebollín.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🍜"
+  },
+  {
+    "title": "Pollo teriyaki con arroz",
+    "tags": ["comida"],
+    "recipe": "Preparar pollo a la parrilla con salsa teriyaki y acompañarlo de arroz.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🍗"
+  },
+  {
+    "title": "Enchiladas con arroz",
+    "tags": ["comida"],
+    "recipe": "Rellenar tortillas con pollo y cubrir con salsa roja, servir con arroz.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🌯"
+  },
+  {
+    "title": "Caldo de albóndigas",
+    "tags": ["comida"],
+    "recipe": "Preparar albóndigas con caldo de verduras.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🍲"
+  },
+  {
+    "title": "Caldo de pollo",
+    "tags": ["comida"],
+    "recipe": "Cocer pollo en agua con verduras para hacer caldo.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🍗"
+  },
+  {
+    "title": "Camarones empanizados",
+    "tags": ["comida"],
+    "recipe": "Empanizar camarones y freírlos.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🍤"
+  },
+  {
+    "title": "Camarones fiesta",
+    "tags": ["comida"],
+    "recipe": "Camarones cocidos y servidos con salsa de ajo y limón.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🦐"
+  },
+  {
+    "title": "Pescado empapelado",
+    "tags": ["comida"],
+    "recipe": "Pescado envuelto en papel aluminio con vegetales.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🐟"
+  },
+  {
+    "title": "Pescado empanizado con salsa de mango",
+    "tags": ["comida"],
+    "recipe": "Empanizar pescado y servir con salsa de mango.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🐠"
+  },
+  {
+    "title": "Milanesas empanizadas con puré de papa",
+    "tags": ["comida"],
+    "recipe": "Empanizar carne y servir con puré de papa.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🍖"
+  },
+  {
+    "title": "Ensalada César con fajitas de pollo empanizadas y betabel",
+    "tags": ["comida"],
+    "recipe": "Preparar ensalada césar con pollo empanizado y betabel.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🥗"
+  },
+  {
+    "title": "Pollo frito con puré de papa",
+    "tags": ["comida"],
+    "recipe": "Freír pollo y acompañarlo de puré de papa.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🍗"
+  },
+  {
+    "title": "Tortas de lomo",
+    "tags": ["comida"],
+    "recipe": "Preparar tortas con lomo de cerdo, cebolla, jitomate y pan.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🥪"
+  },
+  {
+    "title": "Sopa azteca",
+    "tags": ["comida"],
+    "recipe": "Preparar sopa con tiras de tortilla, caldo de pollo y trozos de aguacate.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🍲"
+  },
+  {
+    "title": "Sandwich tipo Subway",
+    "tags": ["comida"],
+    "recipe": "Armar un sandwich con pan fresco y rellenarlo con carnes, verduras y salsas.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🥪"
+  },
+  {
+    "title": "Chuletas ahumadas de cerdo con puré de papa",
+    "tags": ["comida"],
+    "recipe": "Cocinar chuletas ahumadas y servirlas con puré de papa.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🍖"
+  },
+  {
+    "title": "Gorditas de papa",
+    "tags": ["comida"],
+    "recipe": "Hacer gorditas con masa y relleno de papas.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🍽"
+  },
+  {
+    "title": "Gorditas de carne roja deshebrada",
+    "tags": ["comida"],
+    "recipe": "Preparar gorditas con carne de res deshebrada.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🍖"
+  },
+  {
+    "title": "Spaguetti Rojo con Camarón",
+    "tags": ["comida"],
+    "recipe": "Preparar spaguetti rojo y añadir camarones cocidos.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🍤"
+  },
+  {
+    "title": "Fajitas de res",
+    "tags": ["comida"],
+    "recipe": "Cocinar carne de res en tiras con cebolla y pimientos.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🌶️"
+  },
+  {
+    "title": "Tacos de camarón",
+    "tags": ["comida"],
+    "recipe": "Preparar tacos con camarones fritos y salsa al gusto.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🌮"
+  },
+  {
+    "title": "Tacos supremos",
+    "tags": ["comida"],
+    "recipe": "Preparar tacos con carne asada, carnitas o pollo, con salsas y cebolla.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🌮"
+  },
+  {
+    "title": "Hamburguesa",
+    "tags": ["comida"],
+    "recipe": "Armar una hamburguesa con carne molida, lechuga, tomate y queso.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🍔"
+  },
+  {
+    "title": "Alitas",
+    "tags": ["comida"],
+    "recipe": "Freír o asar alitas de pollo con tu salsa favorita.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🍗"
+  },
+  {
+    "title": "Boneless",
+    "tags": ["comida"],
+    "recipe": "Cocinar trozos de pechuga de pollo sin hueso con una capa de empanizado.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🍗"
+  },
+  {
+    "title": "Tacos de pescado",
+    "tags": ["comida"],
+    "recipe": "Freír filetes de pescado y servirlos en tortillas con verduras.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🐟"
+  },
+  {
+    "title": "Tortitas de atún",
+    "tags": ["comida"],
+    "recipe": "Mezclar atún con pan rallado, formar tortitas y freírlas.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🐟"
+  },
+  {
+    "title": "Taco de chile relleno con chuleta ahumada",
+    "tags": ["comida"],
+    "recipe": "Rellenar un chile con queso, cubrir con una chuleta y servir en un taco.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🌶️"
+  },
+  {
+    "title": "Pollo rostizado",
+    "tags": ["comida"],
+    "recipe": "Cocer un pollo a la parrilla o en horno con hierbas y especias.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🍗"
+  },
+  {
+    "title": "Pollo asado",
+    "tags": ["comida"],
+    "recipe": "Asar pollo con ingredientes al gusto y acompañar con arroz.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🍗"
+  },
+  {
+    "title": "Quesadilla con jamón (Sincronizada)",
+    "tags": ["cena"],
+    "recipe": "Colocar jamón y queso en una tortilla, doblar y calentar.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🧀"
+  },
+  {
+    "title": "Maruchan",
+    "tags": ["cena"],
+    "recipe": "Cocer sopa instantánea Maruchan según las instrucciones del paquete.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🍜"
+  },
+  {
+    "title": "Papas con chorizo",
+    "tags": ["cena"],
+    "recipe": "Freír papas y chorizo hasta dorarse.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🌶️"
+  },
+  {
+    "title": "Burrito de frijoles",
+    "tags": ["cena"],
+    "recipe": "Rellenar una tortilla con frijoles refritos y enrollar.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🌯"
+  },
+  {
+    "title": "Burrito de frijoles con chorizo",
+    "tags": ["cena"],
+    "recipe": "Agregar chorizo a los burritos de frijoles para un toque extra.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🌯"
+  },
+  {
+    "title": "Cereal",
+    "tags": ["cena"],
+    "recipe": "Verter cereal en un tazón y agregar leche.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🥣"
+  },
+  {
+    "title": "Pan con crema de cacahuate y plátano",
+    "tags": ["cena"],
+    "recipe": "Untar crema de cacahuate en pan y agregar rodajas de plátano.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🍞"
+  },
+  {
+    "title": "Pan con crema de cacahuate",
+    "tags": ["cena"],
+    "recipe": "Untar crema de cacahuate en pan.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🥜"
+  },
+  {
+    "title": "Sandwich",
+    "tags": ["cena"],
+    "recipe": "Armar un sandwich con ingredientes de tu elección.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🥪"
+  },
+  {
+    "title": "Carne asada",
+    "tags": ["asador"],
+    "recipe": "Marinar y asar carne de res a la parrilla.",
+    "author": "By you",
+    "created_at": "2024-12-13",
+    "icon": "🥩"
+  }
+]
